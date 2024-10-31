@@ -2,10 +2,10 @@
 <p align="center"> 
 Nama                : Viriya Marhan Cunis
 </p>
-<p align='center>
+<p align="center">
 Asal Universitas    : Institut Teknologi Batam
   </p>
-  <p align='center>
+  <p align="center">
 Ini merupakan isi dari analisis Natural Language Processing menggunakan Hugging Face Transformer
 </p>
 
